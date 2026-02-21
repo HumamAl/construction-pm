@@ -2,8 +2,8 @@ import { profile, portfolioProjects } from "@/data/proposal";
 import { CheckCircle2, Rocket, Users, Clock } from "lucide-react";
 
 const stats = [
-  { label: "Projects shipped", value: "40+" },
-  { label: "Industries served", value: "11" },
+  { label: "Projects shipped", value: "50+" },
+  { label: "Industries served", value: "15+" },
   { label: "Demo turnaround", value: "< 48hr" },
 ];
 
